@@ -1,0 +1,53 @@
+body {
+	font: 12px "Comic Sans MS", cursive, sans-serif;
+	color: #000;
+	background: #F27983;
+	padding: 10px; 
+	text-align: center;
+}
+
+td {
+	padding: 25px;
+	background: #F2B999;
+	border: 1px dashed #631773;
+	text-align: left;
+	vertical-align: top;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 0px auto;
+}
+
+h1 {
+	font-size: 35px;
+}
+
+h1, p {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 0px;
+	color: #2D003B;
+}
+
+a {
+	color: #731448;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #A6465F;
+}
+
+img {
+	border: 1px solid #631773;
+	border-radius: 10px;
+}
+
+.doctor-main-page td {
+	padding: 10px;
+}
+
+.doctor-main-page img {
+	border: 4px solid #631773;
+}
